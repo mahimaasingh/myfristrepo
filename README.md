@@ -1,4 +1,4 @@
 # myfristrepo
-this is my frontend project
-author-mahima
+this is my frontend project<br>
+author-mahima<br>
 team-hubnet
